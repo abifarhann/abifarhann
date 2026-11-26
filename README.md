@@ -12,6 +12,9 @@ I build web applications, REST APIs, and backend services that support day-to-da
 
 ## GitHub activity
 
-![Abid Farhan’s GitHub statistics](https://github-readme-stats.vercel.app/api?username=abifarhann)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abifarhann&show_icons=true&hide_border=true" alt="Abid Farhan’s GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abifarhann&layout=compact&hide_border=true" alt="Most-used languages in Abid Farhan’s public repositories" />
+</p>
 
-[View GitHub activity](https://github.com/abifarhann)
+[Explore my GitHub profile and repositories](https://github.com/abifarhann)
